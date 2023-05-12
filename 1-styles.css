@@ -1,0 +1,14 @@
+a{
+    text-decoration:none ;
+    color: #fb0000;
+    padding-bottom:2px;
+    background-image: linear-gradient(#fb0000 0 0);
+    background-position: right -100% bottom 0;
+    background-size: 200% 3px;
+    background-repeat:no-repeat;
+}
+a:hover{
+    text-decoration-color: red;
+    transition: 600ms;
+    background-size: 100% 3px;
+}
